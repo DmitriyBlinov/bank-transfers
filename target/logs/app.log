@@ -1,0 +1,72 @@
+2022-06-24 16:19:36,743 INFO b.m.Account [pool-2-thread-1] Withdraw 514 FROM KMqOwYkMTo
+2022-06-24 16:19:36,746 INFO b.m.Account [pool-2-thread-1] Deposit 514 TO KMqOwYkMTo
+2022-06-24 16:19:36,746 INFO b.m.Account [pool-2-thread-2] Withdraw 4026 FROM KMqOwYkMTo
+2022-06-24 16:19:36,747 INFO b.m.Account [pool-2-thread-2] Deposit 4026 TO NMLKupUxMG
+2022-06-24 16:19:37,363 INFO b.m.Account [pool-2-thread-2] Withdraw 6575 FROM NMLKupUxMG
+2022-06-24 16:19:37,364 INFO b.m.Account [pool-2-thread-1] Withdraw 6226 FROM GSVtDsibCr
+2022-06-24 16:19:37,364 INFO b.m.Account [pool-2-thread-1] Deposit 6226 TO GSVtDsibCr
+2022-06-24 16:19:37,364 INFO b.m.Account [pool-2-thread-2] Deposit 6575 TO GSVtDsibCr
+2022-06-24 16:19:37,915 ERROR b.m.Account [pool-2-thread-2] The account ID KMqOwYkMTo doesn't have enough money
+2022-06-24 16:19:37,916 INFO b.m.Account [pool-2-thread-1] Withdraw 1367 FROM LNBNmnCoSh
+2022-06-24 16:19:37,919 INFO b.m.Account [pool-2-thread-1] Deposit 1367 TO GSVtDsibCr
+2022-06-24 16:19:45,799 INFO b.m.Account [pool-2-thread-1] Withdraw 7263 FROM LNBNmnCoSh
+2022-06-24 16:19:45,800 INFO b.m.Account [pool-2-thread-2] Withdraw 6706 FROM NMLKupUxMG
+2022-06-24 16:19:45,801 INFO b.m.Account [pool-2-thread-1] Deposit 7263 TO LNBNmnCoSh
+2022-06-24 16:19:45,801 INFO b.m.Account [pool-2-thread-2] Deposit 6706 TO GSVtDsibCr
+2022-06-24 16:19:46,744 INFO b.m.Account [pool-2-thread-2] Withdraw 2501 FROM LNBNmnCoSh
+2022-06-24 16:19:46,745 INFO b.m.Account [pool-2-thread-1] Withdraw 2591 FROM KMqOwYkMTo
+2022-06-24 16:19:46,745 INFO b.m.Account [pool-2-thread-1] Deposit 2591 TO NMLKupUxMG
+2022-06-24 16:19:46,745 INFO b.m.Account [pool-2-thread-2] Deposit 2501 TO KMqOwYkMTo
+2022-06-24 16:19:47,614 INFO b.m.Account [pool-2-thread-1] Withdraw 428 FROM LNBNmnCoSh
+2022-06-24 16:19:47,615 ERROR b.m.Account [pool-2-thread-2] The account ID NMLKupUxMG doesn't have enough money
+2022-06-24 16:19:47,615 INFO b.m.Account [pool-2-thread-1] Deposit 428 TO KMqOwYkMTo
+2022-06-24 16:19:48,393 INFO b.m.Account [pool-2-thread-1] Withdraw 9629 FROM GSVtDsibCr
+2022-06-24 16:19:48,391 INFO b.m.Account [pool-2-thread-2] Withdraw 2030 FROM KMqOwYkMTo
+2022-06-24 16:19:48,395 INFO b.m.Account [pool-2-thread-2] Deposit 2030 TO GSVtDsibCr
+2022-06-24 16:19:48,395 INFO b.m.Account [pool-2-thread-1] Deposit 9629 TO KMqOwYkMTo
+2022-06-24 16:19:49,272 INFO b.m.Account [pool-2-thread-1] Withdraw 4730 FROM LNBNmnCoSh
+2022-06-24 16:19:49,273 INFO b.m.Account [pool-2-thread-2] Withdraw 9408 FROM KMqOwYkMTo
+2022-06-24 16:19:49,273 INFO b.m.Account [pool-2-thread-1] Deposit 4730 TO GSVtDsibCr
+2022-06-24 16:19:49,274 INFO b.m.Account [pool-2-thread-2] Deposit 9408 TO NMLKupUxMG
+2022-06-24 16:19:50,131 INFO b.m.Account [pool-2-thread-1] Withdraw 3110 FROM NMLKupUxMG
+2022-06-24 16:19:50,135 INFO b.m.Account [pool-2-thread-1] Deposit 3110 TO LNBNmnCoSh
+2022-06-24 16:19:50,136 INFO b.m.Account [pool-2-thread-2] Withdraw 5237 FROM NMLKupUxMG
+2022-06-24 16:19:50,140 INFO b.m.Account [pool-2-thread-2] Deposit 5237 TO NMLKupUxMG
+2022-06-24 16:19:51,077 ERROR b.m.Account [pool-2-thread-2] The account ID KMqOwYkMTo doesn't have enough money
+2022-06-24 16:19:51,081 ERROR b.m.Account [pool-2-thread-1] The account ID KMqOwYkMTo doesn't have enough money
+2022-06-24 16:19:52,001 INFO b.m.Account [pool-2-thread-1] Withdraw 3307 FROM GSVtDsibCr
+2022-06-24 16:19:52,011 INFO b.m.Account [pool-2-thread-1] Deposit 3307 TO GSVtDsibCr
+2022-06-24 16:19:52,013 INFO b.m.Account [pool-2-thread-2] Withdraw 920 FROM GSVtDsibCr
+2022-06-24 16:19:52,016 INFO b.m.Account [pool-2-thread-2] Deposit 920 TO KMqOwYkMTo
+2022-06-24 16:19:52,802 INFO b.m.Account [pool-2-thread-1] Withdraw 1747 FROM LNBNmnCoSh
+2022-06-24 16:19:52,808 INFO b.m.Account [pool-2-thread-2] Withdraw 8173 FROM NMLKupUxMG
+2022-06-24 16:19:52,810 INFO b.m.Account [pool-2-thread-1] Deposit 1747 TO LNBNmnCoSh
+2022-06-24 16:19:52,812 INFO b.m.Account [pool-2-thread-2] Deposit 8173 TO NMLKupUxMG
+2022-06-24 16:19:53,344 ERROR b.m.Account [pool-2-thread-1] The account ID LNBNmnCoSh doesn't have enough money
+2022-06-24 16:19:53,348 INFO b.m.Account [pool-2-thread-2] Withdraw 2428 FROM NMLKupUxMG
+2022-06-24 16:19:53,351 INFO b.m.Account [pool-2-thread-2] Deposit 2428 TO KMqOwYkMTo
+2022-06-24 16:19:53,897 ERROR b.m.Account [pool-2-thread-2] The account ID NMLKupUxMG doesn't have enough money
+2022-06-24 16:19:53,899 ERROR b.m.Account [pool-2-thread-1] The account ID LNBNmnCoSh doesn't have enough money
+2022-06-24 16:19:54,314 INFO b.m.Account [pool-2-thread-1] Withdraw 5578 FROM NMLKupUxMG
+2022-06-24 16:19:54,317 INFO b.m.Account [pool-2-thread-2] Withdraw 687 FROM GSVtDsibCr
+2022-06-24 16:19:54,323 INFO b.m.Account [pool-2-thread-1] Deposit 5578 TO GSVtDsibCr
+2022-06-24 16:19:54,323 INFO b.m.Account [pool-2-thread-2] Deposit 687 TO NMLKupUxMG
+2022-06-24 16:19:55,038 INFO b.m.Account [pool-2-thread-1] Withdraw 1384 FROM LNBNmnCoSh
+2022-06-24 16:19:55,040 INFO b.m.Account [pool-2-thread-2] Withdraw 506 FROM KMqOwYkMTo
+2022-06-24 16:19:55,041 INFO b.m.Account [pool-2-thread-1] Deposit 1384 TO NMLKupUxMG
+2022-06-24 16:19:55,042 INFO b.m.Account [pool-2-thread-2] Deposit 506 TO LNBNmnCoSh
+2022-06-24 16:19:55,928 INFO b.m.Account [pool-2-thread-1] Withdraw 2076 FROM GSVtDsibCr
+2022-06-24 16:19:55,936 INFO b.m.Account [pool-2-thread-1] Deposit 2076 TO LNBNmnCoSh
+2022-06-24 16:19:55,939 ERROR b.m.Account [pool-2-thread-2] The account ID LNBNmnCoSh doesn't have enough money
+2022-06-24 16:19:56,682 INFO b.m.Account [pool-2-thread-1] Withdraw 2599 FROM GSVtDsibCr
+2022-06-24 16:19:56,686 INFO b.m.Account [pool-2-thread-1] Deposit 2599 TO KMqOwYkMTo
+2022-06-24 16:19:56,686 INFO b.m.Account [pool-2-thread-2] Withdraw 5166 FROM GSVtDsibCr
+2022-06-24 16:19:56,687 INFO b.m.Account [pool-2-thread-2] Deposit 5166 TO NMLKupUxMG
+2022-06-24 16:19:57,642 INFO b.m.Account [pool-2-thread-1] Withdraw 2947 FROM KMqOwYkMTo
+2022-06-24 16:19:57,651 INFO b.m.Account [pool-2-thread-1] Deposit 2947 TO GSVtDsibCr
+2022-06-24 16:19:57,653 INFO b.m.Account [pool-2-thread-2] Withdraw 2946 FROM KMqOwYkMTo
+2022-06-24 16:19:57,657 INFO b.m.Account [pool-2-thread-2] Deposit 2946 TO LNBNmnCoSh
+2022-06-24 16:19:58,510 INFO b.App [main] Final amount of money for ID NMLKupUxMG: 8865
+2022-06-24 16:19:58,518 INFO b.App [main] Final amount of money for ID LNBNmnCoSh: 8228
+2022-06-24 16:19:58,522 INFO b.App [main] Final amount of money for ID GSVtDsibCr: 18856
+2022-06-24 16:19:58,525 INFO b.App [main] Final amount of money for ID KMqOwYkMTo: 4051
