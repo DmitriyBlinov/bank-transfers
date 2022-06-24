@@ -1,0 +1,71 @@
+2022-06-24 14:47:07,206 INFO b.m.Account [pool-2-thread-2] Withdraw 4034 FROM csgUraocRJ
+2022-06-24 14:47:07,206 INFO b.m.Account [pool-2-thread-1] Withdraw 849 FROM OVUmeqNBfv
+2022-06-24 14:47:07,210 INFO b.m.Account [pool-2-thread-2] Deposit 4034 TO OVUmeqNBfv
+2022-06-24 14:47:07,210 INFO b.m.Account [pool-2-thread-1] Deposit 849 TO EYnMJFzWha
+2022-06-24 14:47:08,110 INFO b.m.Account [pool-2-thread-2] Withdraw 3424 FROM csgUraocRJ
+2022-06-24 14:47:08,110 INFO b.m.Account [pool-2-thread-1] Withdraw 9285 FROM OVUmeqNBfv
+2022-06-24 14:47:08,111 INFO b.m.Account [pool-2-thread-1] Deposit 9285 TO TmKxaYrgGW
+2022-06-24 14:47:08,111 INFO b.m.Account [pool-2-thread-2] Deposit 3424 TO OVUmeqNBfv
+2022-06-24 14:47:08,641 INFO b.m.Account [pool-2-thread-1] Withdraw 8711 FROM TmKxaYrgGW
+2022-06-24 14:47:08,642 ERROR b.m.Account [pool-2-thread-2] The account ID csgUraocRJ doesn't have enough money
+2022-06-24 14:47:08,642 INFO b.m.Account [pool-2-thread-1] Deposit 8711 TO csgUraocRJ
+2022-06-24 14:47:08,706 INFO b.m.Account [pool-2-thread-1] Withdraw 5075 FROM OVUmeqNBfv
+2022-06-24 14:47:08,707 INFO b.m.Account [pool-2-thread-1] Deposit 5075 TO EYnMJFzWha
+2022-06-24 14:47:08,707 ERROR b.m.Account [pool-2-thread-2] The account ID OVUmeqNBfv doesn't have enough money
+2022-06-24 14:47:09,158 INFO b.m.Account [pool-2-thread-2] Withdraw 6138 FROM TmKxaYrgGW
+2022-06-24 14:47:09,158 INFO b.m.Account [pool-2-thread-1] Withdraw 5950 FROM EYnMJFzWha
+2022-06-24 14:47:09,158 INFO b.m.Account [pool-2-thread-2] Deposit 6138 TO csgUraocRJ
+2022-06-24 14:47:09,158 INFO b.m.Account [pool-2-thread-1] Deposit 5950 TO TmKxaYrgGW
+2022-06-24 14:47:10,073 INFO b.m.Account [pool-2-thread-2] Withdraw 1249 FROM csgUraocRJ
+2022-06-24 14:47:10,073 INFO b.m.Account [pool-2-thread-2] Deposit 1249 TO csgUraocRJ
+2022-06-24 14:47:10,073 INFO b.m.Account [pool-2-thread-1] Withdraw 5979 FROM TmKxaYrgGW
+2022-06-24 14:47:10,074 INFO b.m.Account [pool-2-thread-1] Deposit 5979 TO OVUmeqNBfv
+2022-06-24 14:47:10,707 INFO b.m.Account [pool-2-thread-2] Withdraw 8082 FROM csgUraocRJ
+2022-06-24 14:47:10,708 INFO b.m.Account [pool-2-thread-2] Deposit 8082 TO TmKxaYrgGW
+2022-06-24 14:47:10,708 INFO b.m.Account [pool-2-thread-1] Withdraw 8082 FROM csgUraocRJ
+2022-06-24 14:47:10,709 INFO b.m.Account [pool-2-thread-1] Deposit 8082 TO csgUraocRJ
+2022-06-24 14:47:11,552 INFO b.m.Account [pool-2-thread-1] Withdraw 5650 FROM csgUraocRJ
+2022-06-24 14:47:11,552 INFO b.m.Account [pool-2-thread-2] Withdraw 1628 FROM TmKxaYrgGW
+2022-06-24 14:47:11,553 INFO b.m.Account [pool-2-thread-1] Deposit 5650 TO TmKxaYrgGW
+2022-06-24 14:47:11,553 INFO b.m.Account [pool-2-thread-2] Deposit 1628 TO csgUraocRJ
+2022-06-24 14:47:11,980 INFO b.m.Account [pool-2-thread-2] Withdraw 3466 FROM TmKxaYrgGW
+2022-06-24 14:47:11,980 INFO b.m.Account [pool-2-thread-1] Withdraw 316 FROM OVUmeqNBfv
+2022-06-24 14:47:11,980 INFO b.m.Account [pool-2-thread-1] Deposit 316 TO OVUmeqNBfv
+2022-06-24 14:47:11,980 INFO b.m.Account [pool-2-thread-2] Deposit 3466 TO EYnMJFzWha
+2022-06-24 14:47:12,788 INFO b.m.Account [pool-2-thread-1] Withdraw 1843 FROM TmKxaYrgGW
+2022-06-24 14:47:12,788 INFO b.m.Account [pool-2-thread-2] Withdraw 5171 FROM OVUmeqNBfv
+2022-06-24 14:47:12,789 INFO b.m.Account [pool-2-thread-1] Deposit 1843 TO EYnMJFzWha
+2022-06-24 14:47:12,789 INFO b.m.Account [pool-2-thread-2] Deposit 5171 TO TmKxaYrgGW
+2022-06-24 14:47:13,194 INFO b.m.Account [pool-2-thread-1] Withdraw 6904 FROM TmKxaYrgGW
+2022-06-24 14:47:13,195 INFO b.m.Account [pool-2-thread-1] Deposit 6904 TO EYnMJFzWha
+2022-06-24 14:47:13,195 INFO b.m.Account [pool-2-thread-2] Withdraw 2828 FROM TmKxaYrgGW
+2022-06-24 14:47:13,195 INFO b.m.Account [pool-2-thread-2] Deposit 2828 TO EYnMJFzWha
+2022-06-24 14:47:13,880 INFO b.m.Account [pool-2-thread-2] Withdraw 5110 FROM TmKxaYrgGW
+2022-06-24 14:47:13,881 INFO b.m.Account [pool-2-thread-2] Deposit 5110 TO TmKxaYrgGW
+2022-06-24 14:47:13,882 ERROR b.m.Account [pool-2-thread-1] The account ID csgUraocRJ doesn't have enough money
+2022-06-24 14:47:14,794 INFO b.m.Account [pool-2-thread-1] Withdraw 3854 FROM EYnMJFzWha
+2022-06-24 14:47:14,795 INFO b.m.Account [pool-2-thread-1] Deposit 3854 TO csgUraocRJ
+2022-06-24 14:47:14,796 INFO b.m.Account [pool-2-thread-2] Withdraw 2550 FROM OVUmeqNBfv
+2022-06-24 14:47:14,796 INFO b.m.Account [pool-2-thread-2] Deposit 2550 TO TmKxaYrgGW
+2022-06-24 14:47:15,585 INFO b.m.Account [pool-2-thread-2] Withdraw 5234 FROM TmKxaYrgGW
+2022-06-24 14:47:15,586 INFO b.m.Account [pool-2-thread-2] Deposit 5234 TO OVUmeqNBfv
+2022-06-24 14:47:15,585 INFO b.m.Account [pool-2-thread-1] Withdraw 3598 FROM csgUraocRJ
+2022-06-24 14:47:15,587 INFO b.m.Account [pool-2-thread-1] Deposit 3598 TO TmKxaYrgGW
+2022-06-24 14:47:16,301 INFO b.m.Account [pool-2-thread-1] Withdraw 331 FROM TmKxaYrgGW
+2022-06-24 14:47:16,301 INFO b.m.Account [pool-2-thread-2] Withdraw 4071 FROM csgUraocRJ
+2022-06-24 14:47:16,302 INFO b.m.Account [pool-2-thread-1] Deposit 331 TO csgUraocRJ
+2022-06-24 14:47:16,302 INFO b.m.Account [pool-2-thread-2] Deposit 4071 TO csgUraocRJ
+2022-06-24 14:47:17,134 ERROR b.m.Account [pool-2-thread-2] The account ID OVUmeqNBfv doesn't have enough money
+2022-06-24 14:47:17,134 INFO b.m.Account [pool-2-thread-1] Withdraw 1614 FROM EYnMJFzWha
+2022-06-24 14:47:17,135 INFO b.m.Account [pool-2-thread-1] Deposit 1614 TO OVUmeqNBfv
+2022-06-24 14:47:17,749 ERROR b.m.Account [pool-2-thread-2] The account ID OVUmeqNBfv doesn't have enough money
+2022-06-24 14:47:17,749 INFO b.m.Account [pool-2-thread-1] Withdraw 3181 FROM EYnMJFzWha
+2022-06-24 14:47:17,750 INFO b.m.Account [pool-2-thread-1] Deposit 3181 TO csgUraocRJ
+2022-06-24 14:47:18,337 INFO b.m.Account [pool-2-thread-1] Withdraw 1702 FROM csgUraocRJ
+2022-06-24 14:47:18,338 INFO b.m.Account [pool-2-thread-1] Deposit 1702 TO csgUraocRJ
+2022-06-24 14:47:18,337 INFO b.m.Account [pool-2-thread-2] Withdraw 8954 FROM EYnMJFzWha
+2022-06-24 14:47:18,339 INFO b.m.Account [pool-2-thread-2] Deposit 8954 TO EYnMJFzWha
+2022-06-24 14:47:19,041 INFO b.App [main] Final amount of money for ID csgUraocRJ: 9055
+2022-06-24 14:47:19,044 INFO b.App [main] Final amount of money for ID TmKxaYrgGW: 7224
+2022-06-24 14:47:19,044 INFO b.App [main] Final amount of money for ID EYnMJFzWha: 16366
+2022-06-24 14:47:19,044 INFO b.App [main] Final amount of money for ID OVUmeqNBfv: 7355
