@@ -1,21 +1,22 @@
 # Bank Transfers
 
-Приложение для перевода денег между автоматически-генерируемыми аккаунтами
+Application for transferring money between automatically generated accounts
 
-### Запуск приложения
-С помощью командной строки:
-1. Открыть cmd в директории ```*/target```
-2. Выполнить команду ```java -cp BankTransfers-1.0-SNAPSHOT-jar-with-dependencies.jar banktransfers.App```
-3. Дождаться завершения программы, логи будут доступны в директории ```*/logs```
+## User manual
+### Application launch
+Using the terminal:
+1. Open the terminal in proceed to the ```*/target``` directory
+2. Execute the following command: ```java -cp BankTransfers-1.0-SNAPSHOT-jar-with-dependencies.jar banktransfers.App```
+3. Wait for the program to complete, the logs will be available in the following directory ```*/logs```
 
-С помощью IDE:
-1. Выполнить команду Run у класса App
-2. Дождаться завершения программы, логи будут доступны в директории ```*/logs```
+Using the IDEA:
+1. Execute Run command for the App.class
+2. Wait for the program to complete, the logs will be available in the following directory ```*/logs```
 
-### Изменение конфигурации
+### Edit configurations
 
-Все константные переменные, отвечающие за кол-во обрабатываемых аккаунтов, тредов и операций, находятся в классе App. Изменение следующих переменных меняет и исполнение самого приложения:
-* MAX_OPERATIONS - кол-во совершаемых операций в течение работы приложения;
-* MAX_ACCOUNTS - кол-во создаваемых программой аккаунтов;
-* MAX_AMOUNT - граничная сумма перевода;
-* MAX_THREADS - кол-во создаваемых потоков.
+All constant variables responsible for the number of processed accounts, threads and operations could be found in the App.class. Changing the following variables will result in app execution:
+* MAX_OPERATIONS - number of operations performed during the app launch
+* MAX_ACCOUNTS - number of created accounts
+* MAX_AMOUNT - transfer limit
+* MAX_THREADS - max number of created threads
