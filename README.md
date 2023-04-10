@@ -13,7 +13,7 @@ Using the IDEA:
 1. Execute Run command for the App.class
 2. Wait for the program to complete, the logs will be available in the following directory ```*/logs```
 
-### Edit configurations
+### Configurations
 
 All constant variables responsible for the number of processed accounts, threads and operations could be found in the App.class. Changing the following variables will result in app execution:
 * MAX_OPERATIONS - number of operations performed during the app launch
