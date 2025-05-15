@@ -18,5 +18,5 @@ Using the IDEA:
 All constant variables responsible for the number of processed accounts, threads and operations could be found in the App.class. Changing the following variables will result in app execution:
 * MAX_OPERATIONS - number of operations performed during the app launch
 * MAX_ACCOUNTS - number of created accounts
-* MAX_AMOUNT - transfer limit
+* MAX_AMOUNT - max inital amount of money on 1 account
 * MAX_THREADS - max number of created threads
